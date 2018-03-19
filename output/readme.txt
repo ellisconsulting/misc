@@ -1,0 +1,1 @@
+this folder holds output eg SVG images, mostly which will be ignored by Git so this folder will show up as empty other than this text file.
